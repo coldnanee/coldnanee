@@ -1,1 +1,1 @@
-![](assets/butterfly.gif)
+<img src="assets/butterfly.gif" alt="gif!" width="100%" height="100%" align="left"/>
